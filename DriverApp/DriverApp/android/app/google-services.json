@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579686833324",
+    "project_id": "lex-driver",
+    "storage_bucket": "lex-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579686833324:android:7388ccd2b88b206ae79309",
+        "android_client_info": {
+          "package_name": "com.example.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579686833324-d89fvvigkj6j03mpkde4o97urftfotlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtCe451sKrQBaSOLPuCTOtQYDsIcPFp8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579686833324-d89fvvigkj6j03mpkde4o97urftfotlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

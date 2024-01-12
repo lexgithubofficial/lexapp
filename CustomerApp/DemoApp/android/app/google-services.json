@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309637588329",
+    "project_id": "lexcustomerapp-393110",
+    "storage_bucket": "lexcustomerapp-393110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309637588329:android:f5e02763316f8f526a49f8",
+        "android_client_info": {
+          "package_name": "com.lex.veenitmark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309637588329-dut0tea117okgkbqqt1ns8git6cormgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaIRe8jvJGexYgEWO5oRtklp5e9sRDDN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309637588329-dut0tea117okgkbqqt1ns8git6cormgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
